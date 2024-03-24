@@ -1,1 +1,2 @@
-`ls -l`
+import os
+print('OS is:' + os.name)
